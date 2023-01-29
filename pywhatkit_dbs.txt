@@ -1,0 +1,56 @@
+--------------------
+Date: 22:10:2021
+Time: 12:50
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------
+Date: 22:10:2021
+Time: 11:50
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------
+Date: 22:10:2021
+Time: 13:50
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------
+Date: 22:10:2021
+Time: 10:50
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------
+Date: 22:10:2021
+Time: 0:1
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------
+Date: 22:10:2021
+Time: 12:54
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------
+Date: 22:10:2021
+Time: 1:54
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------
+Date: 22:10:2021
+Time: 13:54
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------
+Date: 22:10:2021
+Time: 2:54
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------
+Date: 22:10:2021
+Time: 4:54
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------
+Date: 22:10:2021
+Time: 11:54
+Phone number: +212662-190660
+Message: Hello from computer (text only)
+--------------------

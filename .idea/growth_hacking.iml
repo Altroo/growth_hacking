@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$" />
+        <option name="settingsModule" value="growth_hacking/settings.py" />
+        <option name="manageScript" value="$MODULE_DIR$/manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="migrations" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/avito" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/growth_hacking" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/media/avito" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/opensooq" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/opensooq/management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/olx" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/olx/management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jiji" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jiji/management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mubawab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/mubawab/management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/maroc_annonces" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/maroc_annonces/management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/media/maroc_annonce" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (growth_hacking)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+  </component>
+</module>
